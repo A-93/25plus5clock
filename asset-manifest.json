@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/25plus5clock/static/css/main.2f45d5ba.css",
+    "main.js": "/25plus5clock/static/js/main.35e50118.js",
+    "static/js/453.55f96dd5.chunk.js": "/25plus5clock/static/js/453.55f96dd5.chunk.js",
+    "static/media/alarm-104243.mp3": "/25plus5clock/static/media/alarm-104243.6554112f26229ffbb2a7.mp3",
+    "index.html": "/25plus5clock/index.html",
+    "main.2f45d5ba.css.map": "/25plus5clock/static/css/main.2f45d5ba.css.map",
+    "main.35e50118.js.map": "/25plus5clock/static/js/main.35e50118.js.map",
+    "453.55f96dd5.chunk.js.map": "/25plus5clock/static/js/453.55f96dd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f45d5ba.css",
+    "static/js/main.35e50118.js"
+  ]
+}
